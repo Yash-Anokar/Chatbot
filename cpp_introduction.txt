@@ -1,0 +1,31 @@
+C++ Introduction
+1. What is C++?
+C++ is a general-purpose programming language developed by Bjarne Stroustrup in 1979 at Bell
+Labs. It is an extension of the C programming language and supports object-oriented programming
+(OOP).
+2. Features of C++
+• Object-Oriented Programming (OOP)
+• Fast and Efficient
+• Portable and Platform Independent
+• Supports Low-level and High-level Programming
+• Rich Standard Library (STL)
+3. Structure of a C++ Program
+A basic C++ program contains the following parts:
+• Preprocessor Directives (#include )
+• Main Function (int main())
+• Statements and Logic
+• Return Statement (return 0;)
+4. Example Program
+Example: Hello World Program in C++
+#include
+using namespace std;
+int main() {
+cout << "Hello, World!";
+return 0;
+}
+5. Applications of C++
+• Game Development
+• System Programming
+• Embedded Systems
+• Desktop Applications
+• Competitive Programming
